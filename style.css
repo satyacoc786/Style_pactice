@@ -1,0 +1,11 @@
+h3:hover{
+	color: red;
+	text-decoration: underline;
+	cursor: pointer;
+	text-transform: uppercase;
+}
+
+h4:active{
+	color: blue;
+}
+
